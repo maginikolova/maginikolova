@@ -29,11 +29,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maginikolova&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maginikolova&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-## Find me on [<img align="left" alt="maginikolova | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-
-[//]: <> ([<img align="center" alt="maginikolova | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-)
-
+## Find me on [<img align="center" alt="maginikolova | LinkedIn" height="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]
 
 
 <!--
